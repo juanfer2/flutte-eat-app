@@ -5,6 +5,7 @@ A new Flutter project.
 
 ## Credits
 UI screen credit: https://dribbble.com/shots/5358373-Profile-Screen-of-Food-Truck-App/attachments
+
 Flutter tutoria: https://www.youtube.com/watch?v=DRFncCdGf0U&list=PLgGjX33Qsw-FIWxoI2IJf7zsHyxzuFfK5&index=8
 
 ## Getting Started
