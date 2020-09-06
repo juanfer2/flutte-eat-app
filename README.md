@@ -1,8 +1,14 @@
 # eatApp
+  ![alt text](https://github.com/juanfer2/flutte-eat-app/blob/master/assets/images/screen.jpeg?raw=true)
 
 A new Flutter project.
 
 ## Getting Started
+
+Run
+```bash
+  flutter run
+```
 
 This project is a starting point for a Flutter application.
 
